@@ -13,7 +13,7 @@ This repository explores prediction of molecular **pIC50** using linear regressi
 ## Install
 
 ```bash
-python -m pip install -r requirements.txt
+python -m pip install -r requirements-benchmark.txt
 ```
 
 ## Run
